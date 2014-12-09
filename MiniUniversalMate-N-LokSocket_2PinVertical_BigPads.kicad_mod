@@ -1,12 +1,12 @@
-(module MiniUniversalMate-N-LokSocket_2PinVertical_BigPads_12Aug2012 (layer F.Cu)
+(module MiniUniversalMate-N-LokSocket_2PinVertical_BigPads (layer F.Cu)
   (at 0 0)
   (descr "Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical, Big Pads,")
   (tags "Mini Universal Mate-N-Lok Socket, 2 Pin, Vertical, Big Pads,")
-  (fp_text reference ST (at 0.07112 -5.43052) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference MiniUniversalMate-N-LokSocket_2PinVertical_BigPads (at 0.07112 -5.43052) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MiniUniversalMate-N-LokSocket_2PinVertical_BigPads_12Aug2012 (at -0.70104 5.62102) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.70104 5.62102) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.38912 1.78054) (end -3.99034 1.4097) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.99034 1.4097) (end -4.0005 2.2987) (layer F.SilkS) (width 0.15))

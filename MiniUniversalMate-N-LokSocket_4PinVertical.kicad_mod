@@ -1,12 +1,12 @@
-(module MiniUniversalMate-N-LokSocket_4PinVertical_13Aug2012 (layer F.Cu)
+(module MiniUniversalMate-N-LokSocket_4PinVertical (layer F.Cu)
   (at 0 0)
   (descr "Mini Universal Mate-N-Lok, 4Pin, Vertical,")
   (tags "Mini Universal Mate-N-Lok, 4Pin, Vertical,")
-  (fp_text reference ST (at -0.07874 -8.84936) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference MiniUniversalMate-N-LokSocket_4PinVertical (at -0.07874 -8.84936) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MiniUniversalMate-N-LokSocket_4PinVertical_13Aug2012 (at -0.03048 8.56996) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.03048 8.56996) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.4798 3.37058) (end 4.11988 3.37058) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.11988 3.37058) (end 3.81 3.76936) (layer F.SilkS) (width 0.15))
