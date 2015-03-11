@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Mini Universal Mate-N-Lok, 4Pin, Vertical, Big Pads,")
   (tags "Mini Universal Mate-N-Lok, 4Pin, Vertical, Big Pads,")
-  (fp_text reference MiniUniversalMate-N-LokSocket_4PinVertical_BigPads (at -0.07874 -8.84936) (layer F.SilkS)
+  (fp_text reference REF** (at -0.07874 -8.84936) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -0.03048 8.56996) (layer F.SilkS) hide
+  (fp_text value MiniUniversalMate-N-LokSocket_4PinVertical_BigPads (at -0.03048 8.56996) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.87096 0.56896) (end 4.5593 0.5588) (layer F.SilkS) (width 0.15))
